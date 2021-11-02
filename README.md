@@ -4,5 +4,5 @@ Script to append one XM (Extended Module) file to another. The file format speci
 
 Usage:
 ```bash
-./xm-append input_file_1.xm input_file_2.xm output_file.xm
+./xm_append/main input_file_1.xm input_file_2.xm output_file.xm
 ```
